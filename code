@@ -150,18 +150,17 @@
         </div>
         <div class="gallery">
             <div class="box">
-                <div class="place"><h2>Paris, France</h2></div>
+                <div class="place"><h2>Bermuda</h2></div>
                 <div class="image">
                     <a
                         target="_blank"
-                        href="https://images.pexels.com/photos/338515/pexels-photo-338515.jpeg"
                         ><img src="https://www.planetware.com/wpimages/2019/12/bermuda-in-pictures-beautiful-places-to-photograph-horseshoe-bay-beach.jpg"
                             width="400"
-                            alt="Paris"
+                            alt="Bermuda"
                     /></a>
                 </div>
                 <div class="text">
-                    <em>A view of the towering Effiel Tower in Paris, France.</em>
+                    <em>Horshoe Bay Bermuda</em>
                 </div>
             </div>
         </div>
@@ -170,12 +169,12 @@
                 <div class="desc">
                     <span class="desc"
                         ><h3>Description</h3>
-                        Paris is a vibrant place known for its romantic atmosphere, iconic landmarks, delicious cuisine, and rich history. Places such as the towering Effiel Tower, the Louvre Museum housing the iconic Mona Lisa painting, and the central Seine River exist in Paris for visitors to see. Combined with the delicious food, rich history, and romantic atmosphere, Paris captures visitors from all over the world to have this magical experience. 
-                        <h3>Things you can do in Paris:</h3>
+                        Traveling to Bermuda offers a unique blend of natural beauty and vibrant culture. With its stunning pink sand beaches, crystal-clear waters, and lush landscapes, Bermuda is a paradise for relaxation and outdoor enthusiasts. Visitors can explore colorful coral reefs, enjoy water sports, or simply soak up the sun. Beyond its natural charms, the island also boasts a rich history and a warm, welcoming community, making it a perfect destination for those seeking both relaxation and cultural experiences in a breathtaking setting. 
+                        <h3>Things to do in Bermuda</h3>
                         <ul>
-                            <li>Visit Effiel Tower, Louvre Museum, and Seine River</li>
-                            <li>Eat delicious food</li>
-                            <li>Take in the romantic atmosphere with your signifcant other</li>
+                            <li>Visit Horshoe Bay one of the nicest beaches in the world.</li>
+                            <li>Explore may of the natural caves found there.</li>
+                            <li>See many of the historical rich cities such as Hamilton</li>
                         </ul>
                     </span>
                 </div>
@@ -183,20 +182,19 @@
         </div>
         <div class="gallery">
             <div class="box">
-                <div class="place"><h2>Athens, Greece</h2></div>
+                <div class="place"><h2>Ontario, Canada</h2></div>
                 <div class="image">
                     <a
                         target="_blank"
-                        href="https://pd.w.org/2023/06/7316491eb4de808d1.12590655.jpg"
                         ><img
-                            src="https://pd.w.org/2023/06/7316491eb4de808d1.12590655.jpg"
+                            src="https://cdn.britannica.com/30/94430-050-D0FC51CD/Niagara-Falls.jpg"
                             width="400"
-                            alt="Athens"
+                            alt="Niagra Falls"
                     /></a>
                 </div>
                 <div class="text">
                     <em
-                        >A view of the Parthenon on top of the Acropolis of Athens</em
+                        >Niagra Falls</em
                     >
                 </div>
             </div>
@@ -206,13 +204,13 @@
                 <div class="desc">
                     <span class="desc"
                         ><h3>Description</h3>
-                        Athens is a fascinating city that harmoniously blends ancient history and modern tradition together. Perched on a hill, the Acropolis proudly shows the iconic Parthenon, a temple dedicated to Athena, the goddess of wisdom. As you explore the streets of Plaka, you will encounter charming cafes and vibrant art. Monastiraki Square is a valuable trove of flea markets, where you can buy soveneirs and other amazing artifacts. Speaking of artifacts, you can also visit the National Archaelogoical Museum, home to an impressive collection of ancient Greek artifacts. Athens is a great place to visit due to its beautiful combination of its ancient history and modern tradition, making it a destination you cannot miss. 
-                        <h3>Places you can visit in Athens:</h3>
+                        Ontario is a great place to visit because it has amazing natural places to see. You can enjoy beautiful landscapes, like stunning lakes and forests. There are lots of fun outdoor activities like hiking and skiing. You can also try different foods and experience cultural events. If you like learning about history and art, Ontario has interesting things to discover. 
+                        <h3>Things to do in Ontario:</h3>
                         <ul>
-                            <li>Acropolis of Athens</li>
-                            <li>Plaka</li>
-                            <li>Monastriaki Square</li>
-                            <li>National Archcaelogical Museum</li>
+                            <li>Visit Niagra Falls</li>
+                            <li>Visit Toronto</li>
+                            <li>Go to the Capital of Canada Ottawa</li>
+                            <li>Try activities such as skiing</li>
                         </ul>
                     </span>
                 </div>
@@ -220,19 +218,18 @@
         </div>
         <div class="gallery">
             <div class="box">
-                <div class="place"><h2>Dubai, United Arab Emriates</h2></div>
+                <div class="place"><h2>Dublin, Ireland</h2></div>
                 <div class="image">
                     <a
                         target="_blank"
-                        href="https://www.occrp.org/images/stories/CCWatch/daily/Dubai_Azzure.jpg"
                         ><img
-                            src="https://www.occrp.org/images/stories/CCWatch/daily/Dubai_Azzure.jpg"
+                            src="https://www.travelandleisure.com/thmb/IGxfbwkS5Q-ODIUfZIuNy9FtmBM=/1500x0/filters:no_upscale():max_bytes(150000):strip_icc()/dublin-ireland-DUBLINTG0721-e1066115faf74b958a7b1d792ba13c1c.jpg"
                             width="400"
-                            alt="Dubai"
+                            alt="Dublin"
                     /></a>
                 </div>
                 <div class="text">
-                    <em>An aerial view of Dubai.</em>
+                    <em>A street of Dublin</em>
                 </div>
             </div>
         </div>
@@ -241,12 +238,13 @@
                 <div class="desc">
                     <span class="desc"
                         ><h3>Description</h3>
-                        Dubai, UAE is a shining city that always impresses. Its skyline is decorated with futuristic skyscrapers such as the Burj Khalifa, the tallest building in the world currently. The Palm Jumeirah, an archipelago, offers luxurious resorts and stunning views of the Arabian Gulf. Dubai's desert safaris provide exicting adventures, from dune bashing to camel rides. With its blend of modern extravagance and Arabian charm, Dubai is a city that truly resonates with your senses. 
-                        <h3>Places you can visit in Dubai:</h3>
+                      Dublin, Ireland is a wonderful place to visit because you can experience a warm and friendly atmosphere. The city is full of historic sites like Trinity College and Dublin Castle, and you can enjoy lively music and dance performances in cozy pubs. The food is delicious, and you can try traditional Irish dishes. Dublin also has beautiful parks like St. Stephen's Green for relaxing walks. The people are welcoming, and you'll feel like you're part of the community during your visit, making it a great place to explore and have a memorable time.
+. 
+                        <h3>Things to do in Dublin:</h3>
                         <ul>
-                            <li>Burj Khalifa</li>
-                            <li>Palm Jumeirah</li>
-                            <li>Safaris</li>
+                            <li>Visit Guinness factory</li>
+                            <li>See historical sites such as Dublin Castle</li>
+                            <li>Visit museums such as the Little Museum of Dublin</li>
                         </ul>
                     </span>
                 </div>
